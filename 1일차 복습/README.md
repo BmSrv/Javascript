@@ -366,5 +366,6 @@ a = g(); // 변수 a를 g()의 결과로 재할당.
 
 [mdn : JavaScript] : (https://developer.mozilla.org/ko/docs/Web/JavaScript)
 
+
 코리아IT아카데미 이용교 강사 : https://github.com/yonggyo1125/curriculum300H/tree/main/2.%EC%9B%B9%ED%91%9C%EC%A4%80(48%EC%8B%9C%EA%B0%84)
 
