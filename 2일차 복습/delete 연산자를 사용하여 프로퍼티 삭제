@@ -1,5 +1,0 @@
-~~~html
-delete student.age;
-console.log(student); // Object { suit : “하트”, value : 15 }
-VM200:2 {name: '민재'}
-~~~
